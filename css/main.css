@@ -44,7 +44,7 @@ body {
  */
 
 hr {
-    display: block;
+    display: inline;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
